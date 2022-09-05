@@ -1,0 +1,102 @@
+{
+    "gender_map": {
+        "0": "female",
+        "1": "male"
+    },
+    "education_map": {
+        "0": "Doctorate degree",
+        "1": "Left school at 16 years",
+        "2": "Left school at 17 years",
+        "3": "Left school at 18 years",
+        "4": "Left school before 16 years",
+        "5": "Masters degree",
+        "6": "Professional certificate/ diploma",
+        "7": "Some college or university, no certificate or degree",
+        "8": "University degree"
+    },
+    "country_map": {
+        "0": "Australia",
+        "1": "Canada",
+        "2": "Ireland",
+        "3": "New Zealand",
+        "4": "Other",
+        "5": "UK",
+        "6": "USA"
+    },
+    "ethnicity_map": {
+        "0": "Asian",
+        "1": "Black",
+        "2": "Mixed-Black/Asian",
+        "3": "Mixed-White/Asian",
+        "4": "Mixed-White/Black",
+        "5": "Other",
+        "6": "White"
+    },
+    "consumption_alcohol_map": {
+        "0": "never used",
+        "1": "used in last day",
+        "2": "used in last decade",
+        "3": "used in last month",
+        "4": "used in last week",
+        "5": "used in last year",
+        "6": "used over a decade ago"
+    },
+    "consumption_amphetamines_map": {
+        "0": "never used",
+        "1": "used in last day",
+        "2": "used in last decade",
+        "3": "used in last month",
+        "4": "used in last week",
+        "5": "used in last year",
+        "6": "used over a decade ago"
+    },
+    "consumption_caffeine_map": {
+        "0": "never used",
+        "1": "used in last day",
+        "2": "used in last decade",
+        "3": "used in last month",
+        "4": "used in last week",
+        "5": "used in last year",
+        "6": "used over a decade ago"
+    },
+    "consumption_cannabis_map": {
+        "0": "never used",
+        "1": "used in last day",
+        "2": "used in last decade",
+        "3": "used in last month",
+        "4": "used in last week",
+        "5": "used in last year",
+        "6": "used over a decade ago"
+    },
+    "consumption_chocolate_map": {
+        "0": "never used",
+        "1": "used in last day",
+        "2": "used in last decade",
+        "3": "used in last month",
+        "4": "used in last week",
+        "5": "used in last year",
+        "6": "used over a decade ago"
+    },
+    "consumption_mushrooms_map": {
+        "0": "never used",
+        "1": "used in last day",
+        "2": "used in last decade",
+        "3": "used in last month",
+        "4": "used in last week",
+        "5": "used in last year",
+        "6": "used over a decade ago"
+    },
+    "consumption_nicotine_map": {
+        "0": "never used",
+        "1": "used in last day",
+        "2": "used in last decade",
+        "3": "used in last month",
+        "4": "used in last week",
+        "5": "used in last year",
+        "6": "used over a decade ago"
+    },
+    "consumption_cocaine_last_month_map": {
+        "0": "No",
+        "1": "Yes"
+    }
+}
